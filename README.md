@@ -28,5 +28,5 @@ pip install beautifulsoup4
 
 ## Other Notes
 Make sure image type being used is jpeg
-
+ 
 
